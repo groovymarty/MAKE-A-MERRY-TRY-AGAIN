@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "MAKE A MERRY TRY AGAIN",
+    "name": "MAKE A MERRY TRY AGAIN MHS",
     "version": "1.7.1",
 
     "description": "If loading a page fails, try again after x seconds. The reload bypasses the browser cache. This add-on was inspired by the sadly discontinued add-on TryAgain, but is in no way affiliated to it or its authors. MHS: Icon changed.",
